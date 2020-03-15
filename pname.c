@@ -2,7 +2,7 @@
  * pname.c
  * author1: Yinghong Zhong(z5233608)
  * author2: Shaowei Ma(z5238010)
- * version:1.1
+ * version:1.3
  * course: COMP9315
  * Item: Assignment1
 */
